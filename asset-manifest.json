@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoreactapp/static/css/main.3cbf75b4.chunk.css",
+    "main.js": "/todoreactapp/static/js/main.0b5204fd.chunk.js",
+    "main.js.map": "/todoreactapp/static/js/main.0b5204fd.chunk.js.map",
+    "runtime~main.js": "/todoreactapp/static/js/runtime~main.db4ebe41.js",
+    "runtime~main.js.map": "/todoreactapp/static/js/runtime~main.db4ebe41.js.map",
+    "static/js/2.723d40da.chunk.js": "/todoreactapp/static/js/2.723d40da.chunk.js",
+    "static/js/2.723d40da.chunk.js.map": "/todoreactapp/static/js/2.723d40da.chunk.js.map",
+    "index.html": "/todoreactapp/index.html",
+    "precache-manifest.c171e11f8b7e632746865b486e6b5028.js": "/todoreactapp/precache-manifest.c171e11f8b7e632746865b486e6b5028.js",
+    "service-worker.js": "/todoreactapp/service-worker.js",
+    "static/css/main.3cbf75b4.chunk.css.map": "/todoreactapp/static/css/main.3cbf75b4.chunk.css.map"
+  }
+}
